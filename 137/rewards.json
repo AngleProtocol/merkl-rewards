@@ -972,7 +972,7 @@
             "boostedAddress": "0x0000000000000000000000000000000000000000",
             "boostedReward": 0,
             "holders": {},
-            "lastUpdateEpoch": 0,
+            "lastUpdateEpoch": 1684324800,
             "pool": "0xFf5713FdbAD797b81539b5F9766859d4E050a6CC",
             "token": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
             "tokenDecimals": 18,
