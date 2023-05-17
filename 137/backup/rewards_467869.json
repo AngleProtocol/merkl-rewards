@@ -966,18 +966,6 @@
             "tokenDecimals": 18,
             "tokenSymbol": "aglaMerkl",
             "totalAmount": "970000000000000000000"
-        },
-        "0xb3fc2abc303c70a16ab9d5fc38d7e8aeae66593a87a3d971b024dd34b97e94b1": {
-            "amm": 1,
-            "boostedAddress": "0x0000000000000000000000000000000000000000",
-            "boostedReward": 0,
-            "holders": {},
-            "lastUpdateEpoch": 467868,
-            "pool": "0xFf5713FdbAD797b81539b5F9766859d4E050a6CC",
-            "token": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
-            "tokenDecimals": 18,
-            "tokenSymbol": "SUSHI",
-            "totalAmount": "97000000000000000000"
         }
     },
     "updateTxBlockNumber": 42815264
